@@ -6,6 +6,8 @@
   box-sizing: border-box;
 }
 
+/* Global variables */
+
 .white {
   background-color: white;
 }
@@ -25,7 +27,8 @@
 .black {
   background-color: black;
 }
-
+ 
+/* End of Global variables*/ 
 ul {
   display: flex;
   text-decoration: none;
@@ -169,6 +172,9 @@ ul {
 .text-2-p {
   font-size: 20px;
   margin-top: 15px;
+  border-radius: 15px;
+  height: 30px;
+  width: 30%;
 }
 
 .grid-ul {
@@ -177,8 +183,12 @@ ul {
   font-size: 15px;
   margin-top: 40px;
   width: 200px;
+  height: 20px;
+}
 
-
+.grid-ul li {
+  width: 60px;
+  height: 20px;
 }
 
 
