@@ -37,7 +37,7 @@
   margin-right: auto;
 }
 
-/* End of Global variables*/
+/* End of Global variables */
 ul {
   display: flex;
   text-decoration: none;
@@ -93,7 +93,6 @@ ul {
   grid-template-columns: repeat(2 1fr);
   grid-template-rows: repeat(2 1fr);
   border: 1px solid black;
-
 }
 
 .section-1 h3 {
@@ -117,7 +116,6 @@ ul {
   grid-column: 1/2;
   grid-row: 2/3;
   border: 1px solid black;
-
 }
 
 .text-container-4 {
@@ -135,11 +133,8 @@ ul {
 
 .square-1:hover {
   transform: rotate(0deg);
-  transition: 0.6s
+  transition: 0.6s;
 }
-
-
-
 
 .inside-grid {
   position: absolute;
@@ -159,10 +154,7 @@ ul {
 .text-1 {
   grid-row: 1/2;
   display: flex;
-
-
 }
-
 
 .p-clas {
   margin-top: 30px;
@@ -177,7 +169,6 @@ ul {
   grid-row: 2/3;
   font-size: 30px;
   text-align: left;
-
 }
 
 .text-2-p {
@@ -201,7 +192,6 @@ ul {
   height: 20px;
 }
 
-
 .text-3 {
   grid-row: 3/4;
   margin-top: 140px;
@@ -217,15 +207,12 @@ ul {
 
 .inside-text p {
   background-color: grey;
-
 }
 
 .p-span {
   height: 480px;
   font-size: 20px;
   display: flex;
-
-
 }
 
 .p-span p {
@@ -270,7 +257,6 @@ ul {
 .mace:hover {
   transform: rotate(0deg);
   transition: 0.6s;
-
 }
 
 .latest-posts {
@@ -287,7 +273,6 @@ ul {
   width: 30%;
   height: 20px;
   margin: 20px;
-
 }
 
 .h1 {
@@ -299,13 +284,14 @@ ul {
 .description {
   width: 90%;
   height: 50%;
-  margin: 30px 0px 30px 20px;
+  margin: 30px 0 30px 20px;
 }
 
 .article {
   width: 100%;
   height: 750px;
   display: flex;
+
   /* border: solid black 1px; */
   margin-top: 20px;
 }
@@ -387,16 +373,22 @@ ul {
 
 .section-2 h4 {
   margin-top: 50px;
+  width: 20%;
+  height: 30px;
 }
 
 .section-2 h2 {
   font-size: 52px;
   margin-top: 20px;
+  width: 35%;
+  height: 200px;
 }
 
 .section-2 p {
   margin-top: 40px;
   font-size: 25px;
+  width: 50%;
+  height: 100px;
 }
 
 .maga {
@@ -416,37 +408,31 @@ ul {
 .paragraph-container-2 {
   grid-column: 1/2;
   grid-row: 2/3;
-
 }
 
 .paragraph-container-3 {
   grid-column: 2/3;
   grid-row: 2/3;
-
 }
 
 .paragraph-container-4 {
   grid-column: 1/2;
   grid-row: 3/4;
-
 }
 
 .paragraph-container-5 {
   grid-column: 2/3;
   grid-row: 3/4;
-
 }
 
 .paragraph-container-6 {
   grid-column: 1/2;
   grid-row: 4/5;
-
 }
 
 .paragraph-container-7 {
   grid-column: 2/3;
   grid-row: 4/5;
-
 }
 
 .square-2 {
@@ -475,9 +461,7 @@ ul {
 
 .paragraph-container-1 {
   margin-top: 40px;
-
   grid-column: 1/-1;
-
 }
 
 .paragraph-1 {
@@ -486,7 +470,6 @@ ul {
   margin-left: 250px;
   width: 940px;
   height: 150px;
-
 }
 
 .paragraph-text-1 {
@@ -540,7 +523,6 @@ ul {
   width: 150px;
   height: 15px;
   border: 1px solid black;
-
 }
 
 .our-guides {
@@ -627,19 +609,4 @@ ul {
 .topic {
   height: 30px;
   width: 100px;
-}
-
-.section-2 h4 {
-  width: 20%;
-  height: 30px;
-}
-
-.section-2 h2 {
-  width: 35%;
-  height: 200px;
-}
-
-.section-2 p {
-  width: 50%;
-  height: 100px;
 }
