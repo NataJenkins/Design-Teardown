@@ -57,13 +57,25 @@
   margin-top: 30px;
 }
 
+.height {
+  height: 20px;
+}
+
+.js {
+  justify-content: space-between;
+}
+
+.mt-20 {
+  margin-top: 20px;
+}
+
+
+
 /* End of Global variables */
 ul {
   text-decoration: none;
   width: 1000px;
   height: 60px;
-  justify-content: space-between;
-  margin-top: 20px;
 }
 
 .navbar ul {
@@ -81,7 +93,6 @@ ul {
 .navbar {
   height: 100px;
   top: 0;
-  justify-content: space-between;
   position: fixed;
   z-index: 1;
 }
@@ -161,7 +172,6 @@ ul {
 
 .p-tag {
   width: 100px;
-  height: 20px;
 }
 
 .text-1 {
@@ -186,16 +196,13 @@ ul {
 }
 
 .grid-ul {
-  justify-content: space-between;
   font-size: 15px;
   margin-top: 40px;
   width: 200px;
-  height: 20px;
 }
 
 .grid-ul li {
   width: 60px;
-  height: 20px;
 }
 
 .text-3 {
@@ -226,7 +233,6 @@ ul {
 }
 
 .first-span {
-  margin-top: 20px;
   margin-left: 20px;
   width: 50%;
   height: 450px;
@@ -270,7 +276,6 @@ ul {
 
 .p {
   width: 30%;
-  height: 20px;
   margin: 20px;
 }
 
@@ -288,7 +293,6 @@ ul {
 
 .article {
   height: 750px;
-  margin-top: 20px;
 }
 
 .article .left {
@@ -327,8 +331,6 @@ ul {
 
 .article .description {
   height: 30%;
-  margin-left: auto;
-  margin-right: auto;
 }
 
 .btn {
@@ -336,10 +338,6 @@ ul {
   height: 70px;
 }
 
-.article .p {
-  margin-left: auto;
-  margin-right: auto;
-}
 
 .article .post {
   margin-top: 80px;
@@ -350,7 +348,6 @@ ul {
 }
 
 .latest-article .btn {
-  margin-top: 20px;
   height: 50px;
 }
 
@@ -372,7 +369,6 @@ ul {
 
 .section-2 h2 {
   font-size: 52px;
-  margin-top: 20px;
   width: 35%;
   height: 200px;
 }
@@ -446,7 +442,6 @@ ul {
   width: 340px;
   height: 35px;
   margin-left: 350px;
-  margin-top: 20px;
 }
 
 .paragraph-container-1 {
@@ -465,7 +460,6 @@ ul {
   margin-left: 100px;
   line-height: 40px;
   width: 940px;
-  height: 20px;
   margin-top: 5px;
 }
 
@@ -486,7 +480,6 @@ ul {
 .litlle-title {
   margin-top: 30px;
   margin-left: 170px;
-  height: 20px;
   width: 100px;
 }
 
@@ -494,7 +487,6 @@ ul {
   margin-left: 170px;
   margin-top: -60px;
   width: 140px;
-  height: 20px;
 }
 
 .paragraph-2 {
@@ -512,14 +504,12 @@ ul {
 
 .first-container {
   height: 500px;
-  justify-content: space-between;
   align-items: center;
 }
 
 .second-container {
 
   height: 700px;
-  justify-content: space-between;
   align-items: center;
 }
 
@@ -552,8 +542,6 @@ ul {
 }
 
 .newsletter .p {
-  margin-left: auto;
-  margin-right: auto;
   height: 50px;
   width: 80%;
 }
@@ -578,7 +566,6 @@ ul {
   width: 50%;
   height: 40%;
   flex-wrap: wrap;
-  justify-content: space-between;
 }
 
 .topic {
