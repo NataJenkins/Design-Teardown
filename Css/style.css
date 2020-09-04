@@ -198,4 +198,31 @@ width: 200px;
 
 }
 
-s
+.p-span {
+  height: 480px;
+  font-size: 20px;
+  display: flex;
+  
+
+}
+
+.p-span p {
+  text-align: left;
+  margin-top: 40px;
+  margin-left: 100px;
+  line-height: 0px;
+}
+
+.first-span {
+  margin-top: 20px;
+}
+
+ .submit {
+  width: 395px;
+  height: 60px;
+  position: absolute;
+    margin-top: 40px;
+    margin-left: 100px;
+    border-radius: 15px;
+    cursor: pointer;
+}
