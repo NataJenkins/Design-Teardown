@@ -1,59 +1,33 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Design Teardown
 
-> One paragraph statement about the project.
+> Project focused on visual hierarchy made with html and css
 
-![screenshot](./app_screenshot.png)
-
-Additional description about the project and its features.
+![screenshot](./Images/Screenshot_1.jpg)
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+-HTML
+-CSS
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
-
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
+[Live Demo Link](https://natajenkins.github.io/Design-Teardown/)
 
 ## Authors
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
+- Github: [@NataJenkins](https://github.com/Takhmina175)
+- Twitter: [@NataJenkins](https://twitter.com/NataJenkins)
+- Linkedin: [linkedin Profile](https://www.linkedin.com/in/natalia-macias-a11a20187/)
 
 👤 **Author2**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
+- GitHub: [@410AngelaVu](https://github.com/410AngelaVu)
+- Twitter: [@twitterhandle](https://twitter.com/AngelaVu)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/andjela-vukadinovic-67a21b1b2/)
 
 ## 🤝 Contributing
 
