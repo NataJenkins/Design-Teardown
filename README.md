@@ -25,9 +25,9 @@
 
 👤 **Author2**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
+- GitHub: [@410AngelaVu](https://github.com/410AngelaVu)
+- Twitter: [@twitterhandle](https://twitter.com/AngelaVu)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/andjela-vukadinovic-67a21b1b2/)
 
 ## 🤝 Contributing
 
