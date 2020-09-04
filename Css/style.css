@@ -45,6 +45,18 @@
   display: flex;
 }
 
+.absolute {
+  position: absolute;
+}
+
+.width-100 {
+  width: 100%;
+}
+
+.mt-30 {
+  margin-top: 30px;
+}
+
 /* End of Global variables */
 ul {
   text-decoration: none;
@@ -67,7 +79,6 @@ ul {
 }
 
 .navbar {
-  width: 100%;
   height: 100px;
   top: 0;
   justify-content: space-between;
@@ -93,7 +104,6 @@ ul {
 }
 
 .section-1 {
-  width: 100%;
   height: 1400px;
   display: grid;
   grid-template-columns: repeat(2, 1fr);
@@ -141,7 +151,6 @@ ul {
 }
 
 .inside-grid {
-  position: absolute;
   margin-top: 160px;
   margin-left: 100px;
   width: 500px;
@@ -160,7 +169,6 @@ ul {
 }
 
 .p-clas {
-  margin-top: 30px;
   margin-left: 20px;
 }
 
@@ -196,7 +204,6 @@ ul {
 }
 
 .inside-text {
-  position: absolute;
   margin-top: 30px;
   margin-left: 500px;
   text-align: center;
@@ -234,14 +241,12 @@ ul {
 .submit {
   width: 395px;
   height: 60px;
-  position: absolute;
   margin-top: 40px;
   margin-left: 150px;
   cursor: pointer;
 }
 
 .mace {
-  position: absolute;
   height: 330px;
   float: right;
   margin-top: 620px;
@@ -257,7 +262,6 @@ ul {
 
 .latest-posts {
   height: 500px;
-  width: 100%;
 }
 
 .post {
@@ -283,7 +287,6 @@ ul {
 }
 
 .article {
-  width: 100%;
   height: 750px;
   margin-top: 20px;
 }
@@ -343,7 +346,6 @@ ul {
 }
 
 .latest-article {
-  width: 100%;
   height: 100px;
 }
 
@@ -441,7 +443,6 @@ ul {
 }
 
 .title-1 {
-  position: absolute;
   width: 340px;
   height: 35px;
   margin-left: 350px;
@@ -454,7 +455,6 @@ ul {
 }
 
 .paragraph-1 {
-  position: absolute;
   margin-top: 100px;
   margin-left: 250px;
   width: 940px;
@@ -484,7 +484,6 @@ ul {
 }
 
 .litlle-title {
-  position: absolute;
   margin-top: 30px;
   margin-left: 170px;
   height: 20px;
@@ -492,7 +491,6 @@ ul {
 }
 
 .title-2 {
-  position: absolute;
   margin-left: 170px;
   margin-top: -60px;
   width: 140px;
@@ -500,7 +498,6 @@ ul {
 }
 
 .paragraph-2 {
-  position: absolute;
   margin-left: 170px;
 }
 
@@ -510,19 +507,17 @@ ul {
 }
 
 .our-guides {
-  width: 100%;
   height: 1200px;
 }
 
 .first-container {
-  width: 100%;
   height: 500px;
   justify-content: space-between;
   align-items: center;
 }
 
 .second-container {
-  width: 100%;
+
   height: 700px;
   justify-content: space-between;
   align-items: center;
@@ -568,7 +563,6 @@ ul {
 }
 
 .footer {
-  width: 100%;
   height: 700px;
   overflow: auto;
 }
@@ -576,7 +570,6 @@ ul {
 .footer .h1 {
   margin-right: auto;
   margin-left: auto;
-  margin-top: 30px;
   width: 20%;
 }
 
